@@ -1,4 +1,4 @@
-package interview;
+package nIBMQuestions;
 
 import java.util.ArrayList;
 import java.util.List;

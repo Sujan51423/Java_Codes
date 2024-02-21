@@ -1,4 +1,4 @@
-package interview;
+package nIBMQuestions;
 
 import java.util.LinkedHashMap;
 import java.util.Map;

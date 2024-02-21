@@ -1,7 +1,7 @@
 /**
  * 
  */
-package interview;
+package nIBMQuestions;
 
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
